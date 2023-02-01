@@ -8,7 +8,7 @@
   <ProductID>1000</ProductID>
   <ProductDescription>.EEDK CMD Windows</ProductDescription>
   <ProductVersion>1.0.0.0</ProductVersion>
-  <InstallCommand>EEDK_Batch_start.cmd</InstallCommand>
+  <InstallCommand>CatchCommand.cmd</InstallCommand>
   <DetectionKey>HKLM\Software\McAfee\EEDK</DetectionKey>
   <DetectionValue>EEDK</DetectionValue>
   <LocationKey>HKLM\Software\McAfee\EEDK</LocationKey>
